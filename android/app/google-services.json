@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1000840068209",
+    "project_id": "newsapp-3c8e4",
+    "storage_bucket": "newsapp-3c8e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000840068209:android:96d414ac77fbeee2472fd0",
+        "android_client_info": {
+          "package_name": "com.example.newsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1000840068209-almq0scq2jggb8tmk77ejrq253v4v2cd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3N4YjaZ4lV8I5Fy4bC-7wp_oR_gqXnEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1000840068209-almq0scq2jggb8tmk77ejrq253v4v2cd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
